@@ -1,0 +1,10 @@
+C:\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.deps.json
+C:\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.runtimeconfig.json
+C:\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.runtimeconfig.dev.json
+C:\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.dll
+C:\Projects\BackEndFoundationsCSharp\bin\Debug\netcoreapp2.0\BackEndFoundationsCSharp.pdb
+C:\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.csproj.CoreCompileInputs.cache
+C:\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.AssemblyInfoInputs.cache
+C:\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.AssemblyInfo.cs
+C:\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.dll
+C:\Projects\BackEndFoundationsCSharp\obj\Debug\netcoreapp2.0\BackEndFoundationsCSharp.pdb
